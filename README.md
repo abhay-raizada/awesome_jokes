@@ -9,3 +9,12 @@ Irony - Github was invented to increase productivity.
   Because, they don't know how to join tables.
 
 ---------------------------------------
+“Knock, knock.”
+
+“Who’s there?”
+
+very... long... pause...
+
+“Java.”
+
+---------------------------------------
